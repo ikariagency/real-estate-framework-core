@@ -71,3 +71,4 @@ const CTASection = memo(({ variant = 'default' }: CTASectionProps) => {
 CTASection.displayName = 'CTASection';
 
 export default CTASection;
+
