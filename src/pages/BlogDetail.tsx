@@ -9,3 +9,9 @@ const BlogDetail = () => {
 };
 
 export default BlogDetail;
+
+import SystemPlaceholder from "@/components/SystemPlaceholder";
+
+export default function BlogDetail() {
+  return <SystemPlaceholder name="BLOG_DETAIL_PAGE" />;
+}
